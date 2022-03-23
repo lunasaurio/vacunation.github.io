@@ -1,0 +1,55 @@
+
+    <section>
+    <article class="">
+        <div class="">
+        <h1>Why should I vaccine?</h1>
+        <p>In order to avoid any doubts about getting the COVID 19 vaccine, identify the following 4 benefits of
+            COVID 19 vaccination:</p>
+        </div>
+    </article>
+    </section>
+    <footer>
+        <ul>
+            <li>
+                About
+            </li>
+            <li>
+                About us
+            </li>
+            <li>
+                Features
+            </li>
+            <li>
+                News & Blog
+            </li>
+        </ul>
+        <ul>
+            <li>
+                Company
+            </li>
+            <li>
+                How We Work?
+            </li>
+            <li>
+                Capital
+            </li>
+            <li>
+                Security
+            </li>
+        </ul>
+        <ul>
+            <li>
+                Support
+            </li>
+            <li>
+                FAQ's
+            </li>
+            <li>Support Center</li>
+            <li>
+                Contact Us
+            </li>
+        </ul>
+    </footer>
+    <footer>@2021 Vaccination. All rights reserved. </footer>
+    <footer>Terms & Agreement Privacy Police</footer>
+    </div>
